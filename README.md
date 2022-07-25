@@ -1,2 +1,2 @@
-# MyApplication
+# MyApplication - Test Math Library
  
